@@ -1,3 +1,3 @@
 hii
 gud mrng everyone
-welcome to greatcoder
+welcome to the greatcoder
